@@ -4,16 +4,13 @@
 [![Contributor Shield][contributor-shield]][contributors-url]
 
 [discourse-shield]:https://img.shields.io/discourse/topics?label=Discuss%20This%20Tool&server=https%3A%2F%2Fdeveloper.sailpoint.com%2Fdiscuss
-[discourse-url]:https://developer.sailpoint.com/discuss/tag/workflows
-[issues-shield]:https://img.shields.io/github/issues/sailpoint-oss/repo-template?label=Issues
-[issues-url]:https://github.com/sailpoint-oss/repo-template/issues
-[release-shield]: https://img.shields.io/github/v/release/sailpoint-oss/repo-template?label=Current%20Release
-[release-url]:https://github.com/sailpoint-oss/repo-template/releases
-[contributor-shield]:https://img.shields.io/github/contributors/sailpoint-oss/repo-template?label=Contributors
-[contributors-url]:https://github.com/sailpoint-oss/repo-template/graphs/contributors
+[discourse-url]:https://developer.sailpoint.com/discuss/t/iiq-to-do-plugin-demo/23552
+[issues-shield]:https://img.shields.io/github/issues/sailpoint-oss/colab-todo-plugin?label=Issues
+[release-shield]: https://img.shields.io/github/v/release/sailpoint-oss/repocolab-todo-plugin?label=Current%20Release
+[contributor-shield]:https://img.shields.io/github/contributors/sailpoint-oss/colab-todo-plugin?label=Contributors
 
 # To-do Plugin
-Explore the docs » 
+[Explore the docs »](https://developer.sailpoint.com/discuss/t/iiq-to-do-plugin-demo/23552)
 
 Plugin Developer Guide https://developer.sailpoint.com/iiq/docs/plugin-developer-guide/
 
@@ -38,7 +35,3 @@ Don't forget to give the project a star! Thanks again!
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<!-- CONTACT -->
-## Discuss
-[Click Here](https://developer.sailpoint.com/dicuss/tag/{tagName}) to discuss this tool with other users.
